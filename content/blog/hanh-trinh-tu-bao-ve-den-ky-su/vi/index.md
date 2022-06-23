@@ -1,6 +1,7 @@
 ---
 title: Hành trình từ bảo vệ đến kỹ sư
-date: "2022-01-30T22:12:03.284Z"
+date: "2022-01-30"
+tags: lifestory
 ---
 
 <blockquote class="reader-text-block__quote">
