@@ -4,6 +4,10 @@ date: "2022-06-04"
 tags: frontend, tech, infrastructure
 ---
 
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/6290720/175818352-fc337943-160d-438e-8b7e-2c6323e0d64e.jpg" width="100%" />
+<div>
+
 Công ty mình xài Monorepo và có rất nhiều team tham gia vào để phát triển sản phẩm điều đó đồng nghĩa nếu không có rule chung thì code sẽ nhanh chóng thành nồi lẩu thập cẩm. Vì vậy, để đảm bảo Monorepo vận hành tốt, tụi mình force engineer phải follow các điều kiện được đặt ra để đảm bảo quality cho code đồng thời consistent (không ai muốn đọc code xấu cả). Và tụi mình cố gắng để mọi thứ automate để cho engineer chỉ tập trung vào code và ko phải suy nghĩ gì về rules cả. Vì vậy, tụi mình đã phát triển 1 set các npm scripts và integrate vào Githook cũng như CI/CD. Các npm scripts này ban đầu được viết trên Bash. Cụ thể sẽ có các commands sau:
 
 - **Eslint** => check *.ts health
